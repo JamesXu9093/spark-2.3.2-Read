@@ -25,7 +25,7 @@
     <version>18</version>
   </parent>
   <groupId>org.apache.spark</groupId>
-  <artifactId>spark-parent_2.11</artifactId>
+  <artifactId>spark-2.3.2-read</artifactId>
   <version>2.3.2</version>
   <packaging>pom</packaging>
   <name>Spark Project Parent POM</name>
